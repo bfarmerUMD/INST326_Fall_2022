@@ -1,4 +1,6 @@
-
+'''
+Sample file for Github demo
+'''
 
 from distutils.archive_util import make_archive
 
