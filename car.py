@@ -1,6 +1,7 @@
 '''
 Sample file for Github demo
 second line of text
+third line of text
 '''
 
 from distutils.archive_util import make_archive
